@@ -2,7 +2,7 @@
 # Copyright (C) 2022-present Fewtarius
 
 PKG_NAME="pico-8"
-PKG_VERSION="57f5cc3b6a3285b34eac34fc2392264dfe70948b"
+PKG_VERSION="9cff97709e829b9b7e8d75e9f895e2324f2b72c0"
 PKG_ARCH="any"
 PKG_LICENSE="GPLv2"
 PKG_SITE=""
